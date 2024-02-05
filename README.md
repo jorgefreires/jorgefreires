@@ -9,6 +9,5 @@
  
   
 - 👋 I’m @jorgefreires
-- 👀 I work as a data analysis and software developer
-- 💞️ I’m looking to collaborate on any project that help to improve my skills
+- 👀 I work as a data analysis and software developer at [Eutika](https://www.eutika.com/)
 - 📫 You can reach me on www.linkedin.com/in/jorgefreiresDataAnalyst
