@@ -10,4 +10,6 @@
   
 - 👋 I’m @jorgefreires
 - 👀 I work as a data analysis and software developer at [Eutika](https://www.eutika.com/)
-- 📫 You can reach me on www.linkedin.com/in/jorgefreiresDataAnalyst
+- 📫 You can reach me on www.linkedin.com/in/jorgefreires
+- 😄 You can access my personal webpage on https://jorgefreires.com/
+
