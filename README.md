@@ -13,3 +13,5 @@
 - 📫 You can reach me on www.linkedin.com/in/jorgefreires
 - 😄 You can access my personal webpage on https://jorgefreires.com/
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/jorgefreires/jorgefreires/output/github-contribution-grid-snake.svg)
+
