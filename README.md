@@ -8,7 +8,7 @@ This GitHub is a mix of professional work, learning, and personal experiments. O
 
 ## GitHub Stats
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgefreires&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgefreires&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&hide_border=true&theme=transparent)
 
 - LinkedIn: https://www.linkedin.com/in/jorgefreires
 - Website: https://jorgefreires.com
