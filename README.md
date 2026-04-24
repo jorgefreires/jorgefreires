@@ -6,9 +6,13 @@ Most of my day-to-day sits somewhere between product thinking, technical executi
 
 This GitHub is a mix of professional work, learning, and personal experiments. Over time, I want it to reflect more of what I build today: practical tools, technical explorations, and side projects around things I’m genuinely interested in.
 
-## GitHub Stats
-
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgefreires&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&hide_border=true&theme=transparent)
-
 - LinkedIn: https://www.linkedin.com/in/jorgefreires
 - Website: https://jorgefreires.com
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jorgefreires&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  </a>
+</p>
