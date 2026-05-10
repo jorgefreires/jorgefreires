@@ -6,8 +6,8 @@ Most of my day-to-day sits somewhere between product thinking, technical executi
 
 This GitHub is a mix of professional work, learning, and personal experiments. Over time, I want it to reflect more of what I build today: practical tools, technical explorations, and side projects around things I’m genuinely interested in.
 
-- LinkedIn: https://www.linkedin.com/in/jorgefreires
-- Website: https://jorgefreires.com
+- LinkedIn: [linkedin.com/in/jorgefreires](https://www.linkedin.com/in/jorgefreires)
+- Website: [jorgefreires.com](https://www.jorgefreires.com)
 
 ## GitHub Activity
 
